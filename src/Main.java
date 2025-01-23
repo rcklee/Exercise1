@@ -15,7 +15,7 @@ public class Main {
         }
 
         double average =  sum/ (double) dailyHighs.length;
-//hehe
+
         System.out.println("City: "+City+" Zip Code: "+ zip+" Average High Temperature: "+ average);
     }
 }
